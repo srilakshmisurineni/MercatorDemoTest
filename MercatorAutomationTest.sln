@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MercatorAutomationTest", "MercatorAutomationTest.csproj", "{BCE185BA-7E18-427A-8B5F-13547782C590}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCE185BA-7E18-427A-8B5F-13547782C590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE185BA-7E18-427A-8B5F-13547782C590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCE185BA-7E18-427A-8B5F-13547782C590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCE185BA-7E18-427A-8B5F-13547782C590}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD53B733-F7C7-4638-BB47-ADA3E8C113AF}
+	EndGlobalSection
+EndGlobal
